@@ -1,0 +1,6 @@
+575f094bd8864ca4ce7de4de39d468e3  chl_ts.csv
+3cd7654ca1c0b9bafda209026f68a172  bpanom.csv
+90b3d850ebffb988167f30e569689750  pairs.tsv
+dbbd4ca0c2f6cf30011b1d4d08e632c7  acquire_088.py
+68c06f957a091bf7fabef59fb04ea0b6  analysis_088.py
+eb9747686224901df4e9c3864a4bad01  build_088.py
