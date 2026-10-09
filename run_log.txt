@@ -1,0 +1,5 @@
+DOC-2-088 single run
+acquire start UTC 2026-10-09T19:33:24Z
+analysis UTC 2026-10-09T19:41:11Z to 2026-10-09T19:42:40Z (analysis finished within ~85 s; exit code not captured separately, results.json written)
+commands: acquire_088.py, build_088.py, analysis_088.py
+python 3.10.12 numpy 2.2.6 pandas 2.3.3 scipy 1.15.3 sklearn 1.7.2
