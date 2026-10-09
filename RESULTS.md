@@ -23,4 +23,4 @@ Label (set mechanically by analysis_088.py): **HONEST NEGATIVE**. G1 pass. Prior
 - Run once. All four locked files match the lock-1 tag (tag_tree_check.txt; tag commit e2c78daa). No amendments.
 - run_log.txt gives UTC times, versions and commands; the analysis exit code was not captured separately, but results.json and the RESULT_JSON line in analysis.log are complete.
 - build_088.py and analysis_088.py were smoke-tested on synthetic data in scratch directories before lock-1; no record is kept and no result relies on it.
-- The 186 MB time-series file and 34 MB breakpoint file are not in this repo; both are the public Zenodo files with md5s in DATA_HASHES.tsv and input_md5.txt. pairs.tsv (matched windows) is committed so the analysis can be rerun.
+- The 186 MB time-series file and 34 MB breakpoint file are not in this repo; both are the public Zenodo files with md5s in DATA_HASHES.tsv and input_md5.txt. pairs.tsv (matched windows, 3,499 rows, md5 in input_md5.txt) is NOT in this repo (the browser editor could not take an 80 KB file); it is regenerable with build_088.py (seed 88) from the two Zenodo files, and a copy is in the Drive folder.
